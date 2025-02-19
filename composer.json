@@ -1,0 +1,7 @@
+{
+    "name": "alveentino/zklib",
+    "description": "Copy from zklib and optimize it",
+    "require": {
+        "php": ">=8.2"
+    }
+}
