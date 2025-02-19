@@ -1,5 +1,5 @@
 <?php
-require(__DIR__ . '/vendor/autoload.php');
+require(__DIR__ . '/zklib/vendor/autoload.php');
 
 use ZK\Util;
 
